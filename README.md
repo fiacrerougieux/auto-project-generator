@@ -6,6 +6,6 @@ This notebook auto generates individualised assignments for Applied Photovoltaic
 1) Download the entire package.
 2) Enter the student zID in the student list file.
 3) Run all the cells in the notebook.
-4) Get the generated pdfs from the pdf folder. One folder per students.
+4) Get the generated pdfs from the pdf folder. One pdf per students.
 
 Let me know your thoughts!
